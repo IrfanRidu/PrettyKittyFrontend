@@ -6,7 +6,7 @@ import { RouterProvider } from 'react-router-dom'
 import router from './routers/router.jsx'
 
 import { Provider } from 'react-redux'
-import { store } from './redux/store/Store.js'
+import { store } from './redux/store/store.js'
 
 
 
