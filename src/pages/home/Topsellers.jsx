@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import BookCard from '../../components/bookCard';
+import BookCard from '../../components/BookCard';
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 
